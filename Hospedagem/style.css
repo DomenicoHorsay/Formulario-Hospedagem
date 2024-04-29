@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(50, 51, 51);
+    position: absolute;    
+}
+
+form {
+    color:rgb(255, 255, 255);
+    border-radius: 10;
+    font-size: 17px;
+    display: block;
+
+}
+
+legend {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+}
